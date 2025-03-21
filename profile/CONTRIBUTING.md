@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the MCP!
+Thank you for your interest in contributing to the GDX!
 
 Please find the contribution guide for the repositories in the project in the respective repository:
 

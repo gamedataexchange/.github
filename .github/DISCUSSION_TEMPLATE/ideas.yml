@@ -14,7 +14,7 @@ body:
     id: idea
     attributes:
       label: Your Idea
-      description: Share your idea for improving MCP
+      description: Share your idea for improving GDX
       placeholder: |
         Please describe your idea in detail:
         - What problem does it solve?
@@ -27,7 +27,7 @@ body:
     id: scope
     attributes:
       label: Scope
-      description: What aspect of MCP does this idea relate to? (Select all that apply)
+      description: What aspect of GDX does this idea relate to? (Select all that apply)
       options:
         - label: Protocol Specification
         - label: SDK Features

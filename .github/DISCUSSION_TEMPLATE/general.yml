@@ -14,7 +14,7 @@ body:
     id: topic
     attributes:
       label: Discussion Topic
-      description: What would you like to discuss with the MCP community?
+      description: What would you like to discuss with the GDX community?
       placeholder: |
         Please provide a clear description of what you'd like to discuss.
         Include relevant context and background information.
